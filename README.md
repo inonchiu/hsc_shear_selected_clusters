@@ -1,4 +1,4 @@
-# HSC Shear-selected clusters
+# HSC shear-selected clusters
 
 This is the repository for storing the data products of shear-selected clusters from the Hyper Suprime-Cam (HSC) Subaru Strategic Program.
 
